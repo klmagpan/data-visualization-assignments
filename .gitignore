@@ -54,6 +54,13 @@ cover/
 # Translations
 *.mo
 *.pot
+*.psl
+*.gtf
+*.exp
+*.phase
+*.fasta
+*.ident
+*.cov
 
 # Django stuff:
 *.log
